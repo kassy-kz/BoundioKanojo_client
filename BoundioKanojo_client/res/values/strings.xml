@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">AndroidKanojo</string>
+<string name="twitter_auth_error">認証に失敗しました。</string>
+<string name="btn_pin">PIN</string>
+<string name="twitter_timeline_title">TimeLine</string>
+<string name="no_timeline">タイムラインを取得していません。</string>
+<string name="auth_wait_message">Twitter認証中…</string>
+<string name="wait_timeline_message">タイムライン取得中…</string>
+<string name="main_activity_bodystring">これは@kassy_no_kanojoと電話するアプリです。 </string>
+<string name="main_activity_authwill">今からTwitter認証します...</string>
+<string name="main_activity_authsuccess">認証は成功しました</string>
+<string name="main_activity_manual">使い方 \n \n お好みのツイッタークライアントでかっしーの彼女(@kassy_no_kanojo)になんか挨拶してください。</string>
+<string name="entry_manual_string">これは、かっしーの彼女(@kassy_no_kanojo)と電話するためのツールです。あなたのスマートフォンに電話がかかります。</string>
+<string name="entry_warning_string">注意！\n このアプリはこのスマートフォンの電話番号を取得します。さらにその番号を外部サーバーに送信したりします。\n 通信経路の暗号化などもされておらず、正直セキュリティはザルです... \n そのあたり不安な方は本アプリのご使用をおやめください... \n (この時点ではまだ電話番号を取得していません) \n 万一本アプリの使用により意図せずかっしーの彼女からの電話がかかるような場合、@kassy_kzにご連絡ください。ただちにサービスを停止します。</string>
+<string name="entryNoUseString">やめとく</string>
+<string name="entryUseString">いいよ、使う</string>
+</resources>
